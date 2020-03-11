@@ -23,3 +23,9 @@ Bocconi University | [Source](https://www.viasarfatti25.unibocconi.eu/notizia.ph
 Boston University | [Source](https://www.bu.edu/articles/2020/bu-all-classes-online-coronavirus/)
 
 Amherst College | [Source](https://www.amherst.edu/news/covid-19/messages-for-the-college-community/node/766550)
+
+NYU | [Source](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/communications/important-new-coronavirus-related-measures-and-restrictions-and-possible-future-steps.html)
+
+American University | [Source](https://www.american.edu/president/announcements/march-10-2020.cfm)
+
+Georgetown | [Source](https://www.georgetown.edu/news/announcing-our-transition-to-a-virtual-learning-environment/)
