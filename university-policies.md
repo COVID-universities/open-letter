@@ -19,3 +19,5 @@ Columbia  | [Source](https://www.columbia.edu/content/online-classes)
 Cornell  | [Source](https://statements.cornell.edu/2020/20200310-coronavirus-update.cfm)
 
 Bocconi University | [Source](https://www.viasarfatti25.unibocconi.eu/notizia.php?idArt=21573)
+
+Boston University | [Source](https://www.bu.edu/articles/2020/bu-all-classes-online-coronavirus/)
