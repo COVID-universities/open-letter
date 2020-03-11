@@ -29,3 +29,5 @@ NYU | [Source](https://www.nyu.edu/about/leadership-university-administration/of
 American University | [Source](https://www.american.edu/president/announcements/march-10-2020.cfm)
 
 Georgetown | [Source](https://www.georgetown.edu/news/announcing-our-transition-to-a-virtual-learning-environment/)
+
+Penn State University | [Source](https://news.psu.edu/story/611757/2020/03/11/academics/all-penn-state-classes-take-place-remotely-beginning-march-16)
