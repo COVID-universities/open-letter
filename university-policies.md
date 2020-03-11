@@ -39,3 +39,5 @@ Humboldt Universität Berlin | [Source](https://www.hu-berlin.de/en/press-portal
 Northeastern | [Source](https://news.northeastern.edu/coronavirus/university-messages/advancing-our-mission-in-a-time-of-uncertainty/)
 
 UCSC | [Source](https://news.ucsc.edu/2020/03/urgent-ucsc-suspending-in-person-classes-in-response-to-covid19.html)
+
+Rutgers | [Source](https://president.rutgers.edu/public-remarks/letters/important-update-university-operating-status-regarding-covid-19)
