@@ -15,3 +15,5 @@ Prof. Jacques Fellay, EPFL, CHUV & UNIL, Lausanne, Switzerland
 Prof. Richard Neher, University of Basel, Switzerland
 
 Dr. Emma Hodcroft, University Basel, Switzerland
+
+Prof, James Marshall, University of Sheffield, United Kingdom
