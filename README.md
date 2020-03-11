@@ -1,6 +1,9 @@
 # Open Letter to University Leaders
 You can find the letter in PDF [here](https://github.com/COVID-universities/open-letter/blob/master/open_letter_universities.pdf).
 
+## Sign the letter
+Please add your name, affiliation, and area of expertise [here](https://github.com/COVID-universities/open-letter/issues/3), and we will consolidate signatures into the letter!
+
 ## University policies / annoucements
 For a list of universities that have acted, and their annoucements, see [this list](https://github.com/COVID-universities/open-letter/blob/master/university-policies.md).
 
