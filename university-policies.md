@@ -31,3 +31,5 @@ American University | [Source](https://www.american.edu/president/announcements/
 Georgetown | [Source](https://www.georgetown.edu/news/announcing-our-transition-to-a-virtual-learning-environment/)
 
 Penn State University | [Source](https://news.psu.edu/story/611757/2020/03/11/academics/all-penn-state-classes-take-place-remotely-beginning-march-16)
+
+University of Rhode Island | [Source](https://web.uri.edu/coronavirus/2020/03/11/important-uri-covid-19-updates/)
