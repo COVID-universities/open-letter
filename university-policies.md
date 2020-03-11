@@ -21,3 +21,5 @@ Cornell  | [Source](https://statements.cornell.edu/2020/20200310-coronavirus-upd
 Bocconi University | [Source](https://www.viasarfatti25.unibocconi.eu/notizia.php?idArt=21573)
 
 Boston University | [Source](https://www.bu.edu/articles/2020/bu-all-classes-online-coronavirus/)
+
+Amherst College | [Source](https://www.amherst.edu/news/covid-19/messages-for-the-college-community/node/766550)
