@@ -1,7 +1,10 @@
 # Open Letter to University Leaders
 You can find the letter in PDF [here](https://github.com/COVID-universities/open-letter/blob/master/open_letter_universities.pdf).
 
-Full list of signatures:
+## University policies / annoucements
+For a list of universities that have acted, and their annoucements, see [this list](https://github.com/COVID-universities/open-letter/blob/master/university-policies.md).
+
+## Full list of signatures:
 
 Prof. Marcel Salathé, EPFL, Geneva, Switzerland
 
