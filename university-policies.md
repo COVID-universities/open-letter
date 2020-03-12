@@ -53,3 +53,5 @@ Vanderbilt | [Source](https://www.vanderbilt.edu/coronavirus/)
 University of Virginia | [Source](https://www.virginia.edu/coronavirus)
 
 Duke | [Source](https://www.wxii12.com/article/more-than-60-military-members-surprise-young-army-fan-by-bringing-him-lunch-gifts/31360949)
+
+LSE | [Source](https://www.theguardian.com/world/live/2020/mar/12/coronavirus-live-updates-who-declares-pandemic-as-italy-introduces-stricter-measures?page=with:block-5e6a547a8f085f0b8d947456#block-5e6a547a8f085f0b8d947456)
