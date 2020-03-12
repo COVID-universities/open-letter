@@ -59,3 +59,9 @@ LSE | [Source](https://www.theguardian.com/world/live/2020/mar/12/coronavirus-li
 University Georgia | [Source](https://www.uga.edu/coronavirus/messages/archnews-2020-03-12-2.php)
 
 ETH Zurich | [Source](https://ethz.ch/en/news-and-events/eth-news/news/2020/03/eth-suspends-classroom-teaching.html)
+
+University of Massachusetts | [Source](umass.edu/coronavirus/)
+
+Graduate Institute Geneva | [Source](https://graduateinstitute.ch/novel-coronavirus2019)
+
+Freie Universität Berlin | [Source](https://www.fu-berlin.de/en/sites/coronavirus/index.html)
