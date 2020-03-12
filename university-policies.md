@@ -51,3 +51,5 @@ UNC, Chapel Hill | [Source](https://www.unc.edu/coronavirus/)
 Vanderbilt | [Source](https://www.vanderbilt.edu/coronavirus/)
 
 University of Virginia | [Source](https://www.virginia.edu/coronavirus)
+
+Duke | [Source](https://www.wxii12.com/article/more-than-60-military-members-surprise-young-army-fan-by-bringing-him-lunch-gifts/31360949)
