@@ -43,3 +43,13 @@ Northeastern | [Source](https://news.northeastern.edu/coronavirus/university-mes
 UCSC | [Source](https://news.ucsc.edu/2020/03/urgent-ucsc-suspending-in-person-classes-in-response-to-covid19.html)
 
 Rutgers | [Source](https://president.rutgers.edu/public-remarks/letters/important-update-university-operating-status-regarding-covid-19)
+
+Emory | [Source](https://www.ajc.com/blog/get-schooled/emory-first-georgia-college-close-campus-over-coronavirus-and-move-classes-online/IFv5Lw4BPmEw9FTJoUxNTN/)
+
+UNC, Chapel Hill | [Source](https://www.unc.edu/coronavirus/)
+
+Vanderbilt | [Source](https://www.vanderbilt.edu/coronavirus/)
+
+University of Virginia | [Source](https://www.virginia.edu/coronavirus)
+
+Duke | [Source](https://www.wxii12.com/article/more-than-60-military-members-surprise-young-army-fan-by-bringing-him-lunch-gifts/31360949)
