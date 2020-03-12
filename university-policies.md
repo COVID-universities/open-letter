@@ -47,3 +47,5 @@ Rutgers | [Source](https://president.rutgers.edu/public-remarks/letters/importan
 Emory | [Source](https://www.ajc.com/blog/get-schooled/emory-first-georgia-college-close-campus-over-coronavirus-and-move-classes-online/IFv5Lw4BPmEw9FTJoUxNTN/)
 
 UNC, Chapel Hill | [Source](https://www.unc.edu/coronavirus/)
+
+Vanderbilt | [Source](https://www.vanderbilt.edu/coronavirus/)
