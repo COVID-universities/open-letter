@@ -49,3 +49,5 @@ Emory | [Source](https://www.ajc.com/blog/get-schooled/emory-first-georgia-colle
 UNC, Chapel Hill | [Source](https://www.unc.edu/coronavirus/)
 
 Vanderbilt | [Source](https://www.vanderbilt.edu/coronavirus/)
+
+University of Virginia | [Source](https://www.virginia.edu/coronavirus)
