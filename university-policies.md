@@ -36,7 +36,7 @@ University of Rhode Island | [Source](https://web.uri.edu/coronavirus/2020/03/11
 
 Humboldt Universität Berlin | [Source](https://www.hu-berlin.de/en/press-portal/current-information-regarding-coronavirus/information-for-employees-and-students-regarding-covid-19/immediate-measures-to-prevent-the-coronavirus-spread?set_language=en)
 
-University of Bern | [Source](https://www.unibe.ch/coronavirus/index_eng.html)
+University of Bern | [Source](https://www.unibe.ch/coronavirus/index_ger.html)
 
 Northeastern | [Source](https://news.northeastern.edu/coronavirus/university-messages/advancing-our-mission-in-a-time-of-uncertainty/)
 
