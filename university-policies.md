@@ -65,3 +65,7 @@ University of Massachusetts | [Source](umass.edu/coronavirus/)
 Graduate Institute Geneva | [Source](https://graduateinstitute.ch/novel-coronavirus2019)
 
 Freie Universität Berlin | [Source](https://www.fu-berlin.de/en/sites/coronavirus/index.html)
+
+KU Leuven | [Source](https://www.kuleuven.be/coronavirus/english/Coronavirus-ENG)
+
+USC | [Source](https://sites.usc.edu/coronavirus/)
